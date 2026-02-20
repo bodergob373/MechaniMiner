@@ -7,6 +7,9 @@ A Roblox Game about building a mining vehicle, collecting resources, selling the
 
 ## NOTE: 
 For these hours, I only added some features and remade some outdated parts of the game. The rest of the game doesn't really work yet.
+## NOTE: 
+The code files are just the ones I wrote or modified. They don't work outside of the game.
+If you need to check the assets, import them into Roblox Studio by right-clicking workspace in explorer -> insert -> import Roblox model
 ### The things I added are: 
 - Models for blocks: Furnace, Internal Combustion Engine, Steam Engine, Suspension, Shafts
 - Terrain modeling: Mountains in back
