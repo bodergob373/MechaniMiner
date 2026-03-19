@@ -10,6 +10,7 @@ The code files are just the ones I wrote or modified. They don't work outside of
 If you need to check the assets, import them into Roblox Studio by right-clicking workspace in explorer -> insert -> import Roblox model
 
 ## Newest Changes:
+- Cleaned up a lot of code and fixed small bugs
 - Fixed Block Rotation Saving: Previous method rounded Euler angles, resulting in wierd behavior. Changed to a system that calculated the facing axis and number of rotations around that axis.
 - Saving Improvements: Added additional checks to prevent data loss and fast functions for incrementing money or block amounts
 - Item Saving: Added functions for saving and loading and encoding item IDs, positional data, and extra values needing to be stored (like boxed blocks)
