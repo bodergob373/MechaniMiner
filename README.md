@@ -6,8 +6,8 @@ A Roblox Game about building a mining vehicle, collecting resources, selling the
 <img width="1472" height="641" alt="Screenshot 2026-03-18 160207" src="https://github.com/user-attachments/assets/4514de5f-3a2b-4ef2-83b3-57cc098e6d18" />
 
 ## NOTE: 
-The code files are just the ones I wrote or modified. They don't work outside of the game.
-If you need to check the assets, import them into Roblox Studio by right-clicking workspace in explorer -> insert -> import Roblox model
+The code files and assets are just the ones I made or modified. Most don't work outside of the game.
+If you need to see the assets, import them into Roblox Studio by right-clicking workspace in explorer -> insert -> import Roblox model
 
 ## Newest Changes:
 - Cleaned up a lot of code and fixed small bugs
@@ -16,7 +16,7 @@ If you need to check the assets, import them into Roblox Studio by right-clickin
 - Item Saving: Added functions for saving and loading and encoding item IDs, positional data, and extra values needing to be stored (like boxed blocks)
 - New Creation Loading System: Remade the loading system to attach blocks more reliably and use the new saving data to prevent different vehicles from getting attached together
 - Mine Generation: Remade mine generation to only load blocks around where they are mined while accounting for transparent blocks and changed ore rarity formulas
-- Ore Refining: Added functionality to the furnace block to turn raw ores into ingots
+- Ore Smelting: Added functionality to the smelter block to turn raw ores into ingots
 - Money and Selling: Fixed the old money saving system and added a sell zone on the side of the shop building for selling sellable items
 - Boxed Blocks and Buying: Added a box item that can be opened to add blocks to the inventory. Made the shop calculate total prices, deduct money, and set ownership of items that get bought.
 - Conveyor Blocks: Implemented old conveyor models and made them work by applying forces to touching items and keeping track of them
