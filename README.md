@@ -5,6 +5,9 @@ A Roblox Game about building a mining vehicle, collecting resources, selling the
 
 <img width="1472" height="641" alt="Screenshot 2026-03-18 160207" src="https://github.com/user-attachments/assets/4514de5f-3a2b-4ef2-83b3-57cc098e6d18" />
 
+## Video Guide:
+https://www.youtube.com/watch?v=iWqbFD1Xkxo
+
 ## NOTE: 
 The code files and assets are just the ones I made or modified. Most don't work outside of the game.
 If you need to see the assets, import them into Roblox Studio by right-clicking workspace in explorer -> insert -> import Roblox model
